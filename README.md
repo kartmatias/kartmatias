@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: kartmatias@gmail.com
 
-- [x] Graduated from college with a degree in computer science and also graduated from technical training in business administration;
-- [x] Solid experience in systems architecture and programming languages;
-- [x] Experience with Delphi, C #, Java, Go, SQL (TSQL, PGSQL) with software development in retail and distribution applied into ERP/TMS/WMS and Data Warehouse. 
+- [x] I graduated in computer science and also technical training in business administration;
+- [x] I have experience in systems architecture and programming languages;
+- [x] I have worked with Delphi, C #, Java, Go, and SQL (TSQL, PLSQL) in e-commerce, retail, and wholesales (ERP/TMS/WMS, Data Warehouse).
+- [x] I developed integrations with payment gateways and anti-fraud analysis systems.
 - [x] Design patterns, microservices, serverless, syncronous and asynchronous solutions.
 - [x] Experience with cloud technologies such as Azure and AWS.
 - [x] Significant experience in tuning performance, capacity planning, and business continuity.

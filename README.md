@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kartmatias
 - 👀 I’m interested in Java, Kotlin, Go, Typescript, Javascript
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Kubernetes, Terraform, ...
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me: kartmatias@gmail.com
 

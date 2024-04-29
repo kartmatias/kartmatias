@@ -20,6 +20,36 @@
 - [x] Empathy with the needs of customers, investors, and internal and external partners;
 
 
+<div align ="center">
+<table border="4">	
+<tr>
+<td align ="center" >
+<div>
+<a href="https://github.com/kartmatias">
+<img  width="350" align="center"  src="https://github-readme-stats.vercel.app/api?username=kartmatias&show_icons=true&theme=react&include_all_commits=true&count_private=true"></img>
+</div>
+</td>
+	
+<td rowspan="2">
+<div>  
+<a href="https://github.com/kartmatias">
+<img height="280" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartmatias&layout=donut&theme=react"></img>
+</div> 
+</td>
+
+</tr>
+	
+<tr>
+<td align ="center">
+<div>
+<a href="https://github.com/kartmatias">
+<img  width="350" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kartmatias&theme=react&layout=compact"></img> 
+</div>
+</td>
+</tr>
+</table>
+</div>
+
 <!---
 kartmatias/kartmatias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

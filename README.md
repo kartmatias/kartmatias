@@ -1,23 +1,46 @@
-- 👋 Hi, I’m @kartmatias
-- 👀 I’m interested in Java, Kotlin, Go, Typescript, Javascript
-- 🌱 I’m currently learning React, Kubernetes, Terraform, ...
-- 💞️ I’m looking to collaborate on open-source projects
-- 📫 How to reach me: kartmatias@gmail.com
+# 👋 Hi, I’m Matias (@kartmatias)
 
-- [x] I graduated in computer science and also technical training in business administration;
-- [x] I have experience in systems architecture and programming languages;
-- [x] I have worked with Delphi, C #, Java, Go, and SQL (TSQL, PLSQL) in e-commerce, retail, and wholesales (ERP/TMS/WMS, Data Warehouse).
-- [x] I developed integrations with payment gateways and anti-fraud analysis systems.
-- [x] Design patterns, microservices, serverless, synchronous and asynchronous solutions.
-- [x] Experience with cloud technologies such as Azure and AWS.
-- [x] Significant experience in tuning performance, capacity planning, and business continuity.
-- [x] Excellent verbal communication skills;
-- [x] Customer focus;
-- [x] Ability to creatively evaluate and solve problems;
-- [x] Excellent ability to translate business requirements into solutions;
-- [x] Great desire to always provide exceptional service;
-- [x] Culturally fluent and able to engage people;
-- [x] Empathy with the needs of customers, investors, and internal and external partners;
+**Senior Software Engineer | Backend Architect | Linux Specialist**
+
+I specialize in building resilient, high-concurrency backend systems and distributed architectures. With a deep background in **Golang** and **Cloud Infrastructure**, I focus on bridging the gap between complex business requirements and high-performance technical solutions.
+
+- **👀 Current Focus:** Advanced Backend Architecture, High-Load Microservices, and AI Agent Orchestration.
+    
+- **🛠 Tech Stack:** Golang, Java/Kotlin, TypeScript, PHP (Slim/Adianti), and SQL (PL/SQL, T-SQL).
+    
+- **🏗 Infrastructure:** Fedora Linux, Docker, Kubernetes, Terraform, and Cloud-native deployments (AWS/Azure).
+    
+- **🌱 Learning:** Exploring the frontiers of Prompt Engineering (NLP) and Staff Engineering leadership patterns.
+    
+- **📫 Contact:** [kartmatias@gmail.com](mailto:kartmatias@gmail.com)
+    
+
+---
+
+### Detailed Professional Summary (LinkedIn / About Me)
+
+**Systems Architecture & Engineering**
+
+I have extensive experience designing synchronous and asynchronous solutions using **Microservices** and **Serverless** patterns. My expertise spans the entire lifecycle of enterprise software, from initial design patterns to performance tuning, capacity planning, and ensuring business continuity.
+
+**Industry Experience**
+
+- **Fintech & E-commerce:** Developed robust integrations with payment gateways and anti-fraud systems.
+    
+- **Logistics & Retail:** Engineered mission-critical ERP, TMS, and WMS modules, including advanced Data Warehousing for retail and wholesale leaders.
+    
+- **DevOps & Linux:** Specialist in Linux environments (Fedora), managing container orchestration (Docker/Nginx), and automating deployments via CI/CD.
+    
+
+**Core Competencies**
+
+- **Technical:** Golang, Java, C#, Delphi, SQL (Advanced Tuning).
+    
+- **Architectural:** Microservices, Cloud Migration (Azure/AWS), API Design (REST/WebSockets).
+    
+- **Leadership:** Expert at translating complex stakeholder needs into scalable technical roadmaps. I am culturally fluent and focused on delivering exceptional service to investors, partners, and end-users alike.
+
+---
 
 
 <div align ="center">
